@@ -7,7 +7,7 @@ body {
 }
 
 a, a:hover {
-    color: #a00;
+    color: #0741cc;
     text-decoration: none;
     word-break: break-word;
 }
@@ -80,7 +80,7 @@ blockquote em {
 }
 
 a,a:hover {
-    color: #a00;
+    color: #0741cc;
     text-decoration: none
 }
 
@@ -92,7 +92,7 @@ h1,h2,h3,h4,h5,h6 {
     font-family: raleway,sans-serif;
     line-height: 1.2;
     color: #333;
-    font-weight: 200;
+    font-weight: 600;
 }
 
 h1 {
