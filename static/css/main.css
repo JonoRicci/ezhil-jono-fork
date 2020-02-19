@@ -8,7 +8,6 @@ body {
 
 a, a:hover {
     color: #0741cc;
-    text-decoration: none;
     word-break: break-word;
 }
 
@@ -81,7 +80,6 @@ blockquote em {
 
 a,a:hover {
     color: #0741cc;
-    text-decoration: none
 }
 
 a:hover {
@@ -89,7 +87,7 @@ a:hover {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: raleway,sans-serif;
+    font-family: raleway, ubuntu, sans-serif;
     line-height: 1.2;
     color: #333;
     font-weight: 600;
